@@ -1,8 +1,8 @@
-💡 Sistema de Monitoramento de Hábitos
+#💡 Sistema de Monitoramento de Hábitos
 
 Esse é um sistema desenvolvido em Java que permite o cadastro e acompanhamento de hábitos, metas e categorias.
 
-✨ Funcionalidades
+##✨ Funcionalidades
 
 - 📋 Cadastro de hábitos e metas
 - 🗂️ Organização por categorias
@@ -10,7 +10,7 @@ Esse é um sistema desenvolvido em Java que permite o cadastro e acompanhamento 
 - 🔒 Tela de login e autenticação de usuários
 - 🛠️ Conexão com banco de dados MySQL
 
-🛠️ Tecnologias Utilizadas
+##🛠️ Tecnologias Utilizadas
 
 - Java (JDK 17+)
 - IDE Eclipse
